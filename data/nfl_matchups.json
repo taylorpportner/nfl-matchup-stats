@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-25T17:44:21+00:00",
+ "generated_at": "2026-09-27T17:24:43+00:00",
  "prior_season": 2025,
  "prior_weight_games": 4,
  "qbs": {
@@ -747,8 +747,8 @@
    "gameday": "2026-09-28",
    "gametime": "20:15",
    "home": "CHI",
-   "home_qb_id": "00-0028986",
-   "home_qb_name": "Case Keenum",
+   "home_qb_id": "00-0038416",
+   "home_qb_name": "Tyson Bagent",
    "home_rest": 8,
    "roof": "outdoors",
    "stadium": "Soldier Field",
