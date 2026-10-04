@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T18:10:35+00:00",
+ "generated_at": "2026-10-04T17:15:05+00:00",
  "prior_season": 2025,
  "prior_weight_games": 4,
  "qbs": {
@@ -485,24 +485,6 @@
   }
  },
  "schedule": [
-  {
-   "away": "IND",
-   "away_qb_id": "00-0035710",
-   "away_qb_name": "Daniel Jones",
-   "away_rest": 7,
-   "div_game": false,
-   "game_id": "2026_04_IND_WAS",
-   "gameday": "2026-10-04",
-   "gametime": "09:30",
-   "home": "WAS",
-   "home_qb_id": "00-0032268",
-   "home_qb_name": "Marcus Mariota",
-   "home_rest": 7,
-   "roof": "outdoors",
-   "stadium": "Tottenham Hotspur Stadium",
-   "surface": "grass",
-   "week": 4
-  },
   {
    "away": "TEN",
    "away_qb_id": "00-0040676",
@@ -1517,7 +1499,7 @@
      "value": 0.0732
     },
     "points_allowed_pg": {
-     "rank": 25,
+     "rank": 26,
      "value": 25.5378
     },
     "rush_epa": {
@@ -1793,7 +1775,7 @@
      "value": 31.2966
     },
     "points_pg": {
-     "rank": 15,
+     "rank": 14,
      "value": 22.0504
     },
     "proe": {
@@ -1912,7 +1894,7 @@
      "value": 0.0423
     },
     "points_allowed_pg": {
-     "rank": 23,
+     "rank": 24,
      "value": 25.1008
     },
     "rush_epa": {
@@ -2070,8 +2052,8 @@
      "value": 0.0579
     },
     "points_allowed_pg": {
-     "rank": 28,
-     "value": 26.8487
+     "rank": 23,
+     "value": 24.9916
     },
     "rush_epa": {
      "rank": 24,
@@ -2109,8 +2091,8 @@
      "value": 31.6897
     },
     "points_pg": {
-     "rank": 10,
-     "value": 25.9496
+     "rank": 9,
+     "value": 26.5924
     },
     "proe": {
      "rank": 8,
@@ -2346,7 +2328,7 @@
      "value": 30.6004
     },
     "points_pg": {
-     "rank": 9,
+     "rank": 10,
      "value": 26.1261
     },
     "proe": {
@@ -2544,7 +2526,7 @@
      "value": 0.0614
     },
     "points_allowed_pg": {
-     "rank": 27,
+     "rank": 28,
      "value": 26.5378
     },
     "rush_epa": {
@@ -2662,7 +2644,7 @@
      "value": 31.849
     },
     "points_pg": {
-     "rank": 17,
+     "rank": 16,
      "value": 21.7059
     },
     "proe": {
@@ -2741,7 +2723,7 @@
      "value": 32.0282
     },
     "points_pg": {
-     "rank": 19,
+     "rank": 18,
      "value": 21.6134
     },
     "proe": {
@@ -2820,7 +2802,7 @@
      "value": 28.1
     },
     "points_pg": {
-     "rank": 16,
+     "rank": 15,
      "value": 21.8571
     },
     "proe": {
@@ -2939,7 +2921,7 @@
      "value": 0.0474
     },
     "points_allowed_pg": {
-     "rank": 26,
+     "rank": 27,
      "value": 25.6218
     },
     "rush_epa": {
@@ -3334,7 +3316,7 @@
      "value": 0.0561
     },
     "points_allowed_pg": {
-     "rank": 23,
+     "rank": 24,
      "value": 25.1008
     },
     "rush_epa": {
@@ -3373,7 +3355,7 @@
      "value": 31.4719
     },
     "points_pg": {
-     "rank": 18,
+     "rank": 17,
      "value": 21.6303
     },
     "proe": {
@@ -3493,7 +3475,7 @@
     },
     "points_allowed_pg": {
      "rank": 31,
-     "value": 28.3025
+     "value": 28.2311
     },
     "rush_epa": {
      "rank": 8,
@@ -3531,8 +3513,8 @@
      "value": 29.1897
     },
     "points_pg": {
-     "rank": 14,
-     "value": 22.6807
+     "rank": 19,
+     "value": 21.395
     },
     "proe": {
      "rank": 15,
