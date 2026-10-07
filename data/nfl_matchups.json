@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T18:44:58+00:00",
+ "generated_at": "2026-10-07T19:10:51+00:00",
  "prior_season": 2025,
  "prior_weight_games": 4,
  "qbs": {
@@ -116,7 +116,7 @@
    "team": "DET"
   },
   "00-0033119": {
-   "cpoe": 1.9,
+   "cpoe": 1.98,
    "dropbacks_current": 158,
    "dropbacks_prior": 530,
    "epa_dropback": -0.0255,
