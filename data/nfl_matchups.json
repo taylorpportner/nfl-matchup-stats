@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T19:07:06+00:00",
+ "generated_at": "2026-10-09T18:37:52+00:00",
  "prior_season": 2025,
  "prior_weight_games": 4,
  "qbs": {
@@ -100,10 +100,10 @@
    "team": "MIN"
   },
   "00-0033077": {
-   "cpoe": 3.84,
-   "dropbacks_current": 157,
+   "cpoe": 2.04,
+   "dropbacks_current": 200,
    "dropbacks_prior": 631,
-   "epa_dropback": 0.2238,
+   "epa_dropback": 0.1869,
    "name": "D.Prescott",
    "team": "DAL"
   },
@@ -482,27 +482,17 @@
    "epa_dropback": -0.002,
    "name": "T.Shough",
    "team": "NO"
+  },
+  "00-0041251": {
+   "cpoe": -0.03,
+   "dropbacks_current": 59,
+   "dropbacks_prior": 0,
+   "epa_dropback": 0.0185,
+   "name": "J.Daniels",
+   "team": "TB"
   }
  },
  "schedule": [
-  {
-   "away": "TB",
-   "away_qb_id": "00-0041251",
-   "away_qb_name": "Jalon Daniels",
-   "away_rest": 4,
-   "div_game": false,
-   "game_id": "2026_05_TB_DAL",
-   "gameday": "2026-10-08",
-   "gametime": "20:15",
-   "home": "DAL",
-   "home_qb_id": "00-0033077",
-   "home_qb_name": "Dak Prescott",
-   "home_rest": 4,
-   "roof": "closed",
-   "stadium": "AT&T Stadium",
-   "surface": "matrixturf",
-   "week": 5
-  },
   {
    "away": "PHI",
    "away_qb_id": "00-0036389",
@@ -721,8 +711,8 @@
   },
   {
    "away": "BAL",
-   "away_qb_id": "00-0034796",
-   "away_qb_name": "Lamar Jackson",
+   "away_qb_id": "00-0035993",
+   "away_qb_name": "Tyler Huntley",
    "away_rest": 7,
    "div_game": false,
    "game_id": "2026_05_BAL_ATL",
@@ -757,16 +747,16 @@
   },
   {
    "away": "SEA",
-   "away_qb_id": null,
-   "away_qb_name": null,
+   "away_qb_id": "00-0035704",
+   "away_qb_name": "Drew Lock",
    "away_rest": 4,
    "div_game": false,
    "game_id": "2026_06_SEA_DEN",
    "gameday": "2026-10-15",
    "gametime": "20:15",
    "home": "DEN",
-   "home_qb_id": null,
-   "home_qb_name": null,
+   "home_qb_id": "00-0039732",
+   "home_qb_name": "Bo Nix",
    "home_rest": 4,
    "roof": "outdoors",
    "stadium": "Empower Field at Mile High",
@@ -775,16 +765,16 @@
   },
   {
    "away": "HOU",
-   "away_qb_id": null,
-   "away_qb_name": null,
+   "away_qb_id": "00-0039163",
+   "away_qb_name": "C.J. Stroud",
    "away_rest": 7,
    "div_game": true,
    "game_id": "2026_06_HOU_JAX",
    "gameday": "2026-10-18",
    "gametime": "09:30",
    "home": "JAX",
-   "home_qb_id": null,
-   "home_qb_name": null,
+   "home_qb_id": "00-0036971",
+   "home_qb_name": "Trevor Lawrence",
    "home_rest": 7,
    "roof": "outdoors",
    "stadium": "Wembley Stadium",
@@ -793,16 +783,16 @@
   },
   {
    "away": "CHI",
-   "away_qb_id": null,
-   "away_qb_name": null,
+   "away_qb_id": "00-0038416",
+   "away_qb_name": "Tyson Bagent",
    "away_rest": 7,
    "div_game": false,
    "game_id": "2026_06_CHI_ATL",
    "gameday": "2026-10-18",
    "gametime": "13:00",
    "home": "ATL",
-   "home_qb_id": null,
-   "home_qb_name": null,
+   "home_qb_id": "00-0039917",
+   "home_qb_name": "Michael Penix Jr.",
    "home_rest": 7,
    "roof": "closed",
    "stadium": "Mercedes-Benz Stadium",
@@ -811,16 +801,16 @@
   },
   {
    "away": "BAL",
-   "away_qb_id": null,
-   "away_qb_name": null,
+   "away_qb_id": "00-0034796",
+   "away_qb_name": "Lamar Jackson",
    "away_rest": 7,
    "div_game": true,
    "game_id": "2026_06_BAL_CLE",
    "gameday": "2026-10-18",
    "gametime": "13:00",
    "home": "CLE",
-   "home_qb_id": null,
-   "home_qb_name": null,
+   "home_qb_id": "00-0033537",
+   "home_qb_name": "Deshaun Watson",
    "home_rest": 7,
    "roof": "outdoors",
    "stadium": "Huntington Bank Field",
@@ -829,16 +819,16 @@
   },
   {
    "away": "TEN",
-   "away_qb_id": null,
-   "away_qb_name": null,
+   "away_qb_id": "00-0040676",
+   "away_qb_name": "Cam Ward",
    "away_rest": 7,
    "div_game": true,
    "game_id": "2026_06_TEN_IND",
    "gameday": "2026-10-18",
    "gametime": "13:00",
    "home": "IND",
-   "home_qb_id": null,
-   "home_qb_name": null,
+   "home_qb_id": "00-0035710",
+   "home_qb_name": "Daniel Jones",
    "home_rest": 7,
    "roof": "open",
    "stadium": "Lucas Oil Stadium",
@@ -847,16 +837,16 @@
   },
   {
    "away": "NYJ",
-   "away_qb_id": null,
-   "away_qb_name": null,
+   "away_qb_id": "00-0030565",
+   "away_qb_name": "Geno Smith",
    "away_rest": 7,
    "div_game": true,
    "game_id": "2026_06_NYJ_NE",
    "gameday": "2026-10-18",
    "gametime": "13:00",
    "home": "NE",
-   "home_qb_id": null,
-   "home_qb_name": null,
+   "home_qb_id": "00-0039851",
+   "home_qb_name": "Drake Maye",
    "home_rest": 7,
    "roof": "outdoors",
    "stadium": "Gillette Stadium",
@@ -865,16 +855,16 @@
   },
   {
    "away": "NO",
-   "away_qb_id": null,
-   "away_qb_name": null,
+   "away_qb_id": "00-0040743",
+   "away_qb_name": "Tyler Shough",
    "away_rest": 7,
    "div_game": false,
    "game_id": "2026_06_NO_NYG",
    "gameday": "2026-10-18",
    "gametime": "13:00",
    "home": "NYG",
-   "home_qb_id": null,
-   "home_qb_name": null,
+   "home_qb_id": "00-0031503",
+   "home_qb_name": "Jameis Winston",
    "home_rest": 7,
    "roof": "outdoors",
    "stadium": "MetLife Stadium",
@@ -883,16 +873,16 @@
   },
   {
    "away": "CAR",
-   "away_qb_id": null,
-   "away_qb_name": null,
+   "away_qb_id": "00-0039150",
+   "away_qb_name": "Bryce Young",
    "away_rest": 14,
    "div_game": false,
    "game_id": "2026_06_CAR_PHI",
    "gameday": "2026-10-18",
    "gametime": "13:00",
    "home": "PHI",
-   "home_qb_id": null,
-   "home_qb_name": null,
+   "home_qb_id": "00-0036389",
+   "home_qb_name": "Jalen Hurts",
    "home_rest": 7,
    "roof": "outdoors",
    "stadium": "Lincoln Financial Field",
@@ -901,16 +891,16 @@
   },
   {
    "away": "PIT",
-   "away_qb_id": null,
-   "away_qb_name": null,
+   "away_qb_id": "00-0023459",
+   "away_qb_name": "Aaron Rodgers",
    "away_rest": 7,
    "div_game": false,
    "game_id": "2026_06_PIT_TB",
    "gameday": "2026-10-18",
    "gametime": "13:00",
    "home": "TB",
-   "home_qb_id": null,
-   "home_qb_name": null,
+   "home_qb_id": "00-0041251",
+   "home_qb_name": "Jalon Daniels",
    "home_rest": 10,
    "roof": "outdoors",
    "stadium": "Raymond James Stadium",
@@ -919,16 +909,16 @@
   },
   {
    "away": "ARI",
-   "away_qb_id": null,
-   "away_qb_name": null,
+   "away_qb_id": "00-0033119",
+   "away_qb_name": "Jacoby Brissett",
    "away_rest": 7,
    "div_game": true,
    "game_id": "2026_06_ARI_LA",
    "gameday": "2026-10-18",
    "gametime": "16:05",
    "home": "LA",
-   "home_qb_id": null,
-   "home_qb_name": null,
+   "home_qb_id": "00-0026498",
+   "home_qb_name": "Matthew Stafford",
    "home_rest": 6,
    "roof": "dome",
    "stadium": "SoFi Stadium",
@@ -937,16 +927,16 @@
   },
   {
    "away": "LAC",
-   "away_qb_id": null,
-   "away_qb_name": null,
+   "away_qb_id": "00-0036355",
+   "away_qb_name": "Justin Herbert",
    "away_rest": 7,
    "div_game": true,
    "game_id": "2026_06_LAC_KC",
    "gameday": "2026-10-18",
    "gametime": "16:25",
    "home": "KC",
-   "home_qb_id": null,
-   "home_qb_name": null,
+   "home_qb_id": "00-0033873",
+   "home_qb_name": "Patrick Mahomes",
    "home_rest": 14,
    "roof": "outdoors",
    "stadium": "GEHA Field at Arrowhead Stadium",
@@ -955,16 +945,16 @@
   },
   {
    "away": "BUF",
-   "away_qb_id": null,
-   "away_qb_name": null,
+   "away_qb_id": "00-0034857",
+   "away_qb_name": "Josh Allen",
    "away_rest": 6,
    "div_game": false,
    "game_id": "2026_06_BUF_LV",
    "gameday": "2026-10-18",
    "gametime": "16:25",
    "home": "LV",
-   "home_qb_id": null,
-   "home_qb_name": null,
+   "home_qb_id": "00-0029604",
+   "home_qb_name": "Kirk Cousins",
    "home_rest": 7,
    "roof": "dome",
    "stadium": "Allegiant Stadium",
@@ -973,19 +963,37 @@
   },
   {
    "away": "DAL",
-   "away_qb_id": null,
-   "away_qb_name": null,
+   "away_qb_id": "00-0033077",
+   "away_qb_name": "Dak Prescott",
    "away_rest": 10,
    "div_game": false,
    "game_id": "2026_06_DAL_GB",
    "gameday": "2026-10-18",
    "gametime": "20:20",
    "home": "GB",
-   "home_qb_id": null,
-   "home_qb_name": null,
+   "home_qb_id": "00-0036264",
+   "home_qb_name": "Jordan Love",
    "home_rest": 7,
    "roof": "outdoors",
    "stadium": "Lambeau Field",
+   "surface": "grass",
+   "week": 6
+  },
+  {
+   "away": "WAS",
+   "away_qb_id": "00-0039910",
+   "away_qb_name": "Jayden Daniels",
+   "away_rest": 8,
+   "div_game": false,
+   "game_id": "2026_06_WAS_SF",
+   "gameday": "2026-10-19",
+   "gametime": "20:15",
+   "home": "SF",
+   "home_qb_id": "00-0037834",
+   "home_qb_name": "Brock Purdy",
+   "home_rest": 8,
+   "roof": "outdoors",
+   "stadium": "Levi's Stadium",
    "surface": "grass",
    "week": 6
   }
@@ -1007,7 +1015,7 @@
      "value": 0.0633
     },
     "points_allowed_pg": {
-     "rank": 31,
+     "rank": 32,
      "value": 28.9779
     },
     "rush_epa": {
@@ -1019,7 +1027,7 @@
      "value": 0.4663
     },
     "takeaways_pg": {
-     "rank": 11,
+     "rank": 12,
      "value": 1.3088
     }
    },
@@ -1082,15 +1090,15 @@
      "value": -0.0233
     },
     "explosive_rate": {
-     "rank": 19,
+     "rank": 18,
      "value": 0.0572
     },
     "points_allowed_pg": {
-     "rank": 17,
+     "rank": 18,
      "value": 23.2941
     },
     "rush_epa": {
-     "rank": 4,
+     "rank": 3,
      "value": -0.1671
     },
     "success_rate": {
@@ -1117,11 +1125,11 @@
      "value": 0.0558
     },
     "giveaways_pg": {
-     "rank": 27,
+     "rank": 28,
      "value": 1.5588
     },
     "pace_sec": {
-     "rank": 24,
+     "rank": 23,
      "value": 31.3268
     },
     "points_pg": {
@@ -1133,7 +1141,7 @@
      "value": -6.6757
     },
     "red_zone_td_rate": {
-     "rank": 3,
+     "rank": 4,
      "value": 0.71
     },
     "rush_epa": {
@@ -1165,7 +1173,7 @@
      "value": 0.0635
     },
     "points_allowed_pg": {
-     "rank": 18,
+     "rank": 19,
      "value": 23.7059
     },
     "rush_epa": {
@@ -1173,18 +1181,18 @@
      "value": -0.077
     },
     "success_rate": {
-     "rank": 15,
+     "rank": 14,
      "value": 0.437
     },
     "takeaways_pg": {
-     "rank": 13,
+     "rank": 14,
      "value": 1.2426
     }
    },
    "games_current": 4,
    "offense": {
     "dropback_epa": {
-     "rank": 6,
+     "rank": 5,
      "value": 0.1844
     },
     "epa_play": {
@@ -1232,7 +1240,7 @@
   "BUF": {
    "defense": {
     "dropback_epa": {
-     "rank": 18,
+     "rank": 19,
      "value": 0.0591
     },
     "epa_play": {
@@ -1240,7 +1248,7 @@
      "value": 0.0535
     },
     "explosive_rate": {
-     "rank": 21,
+     "rank": 20,
      "value": 0.0577
     },
     "points_allowed_pg": {
@@ -1256,7 +1264,7 @@
      "value": 0.46
     },
     "takeaways_pg": {
-     "rank": 13,
+     "rank": 14,
      "value": 1.2426
     }
    },
@@ -1331,7 +1339,7 @@
      "value": -0.0618
     },
     "success_rate": {
-     "rank": 13,
+     "rank": 12,
      "value": 0.4354
     },
     "takeaways_pg": {
@@ -1354,7 +1362,7 @@
      "value": 0.0607
     },
     "giveaways_pg": {
-     "rank": 12,
+     "rank": 11,
      "value": 1.0515
     },
     "pace_sec": {
@@ -1433,7 +1441,7 @@
      "value": 0.0621
     },
     "giveaways_pg": {
-     "rank": 13,
+     "rank": 12,
      "value": 1.0735
     },
     "pace_sec": {
@@ -1508,7 +1516,7 @@
      "value": 0.0288
     },
     "explosive_rate": {
-     "rank": 17,
+     "rank": 18,
      "value": 0.0526
     },
     "giveaways_pg": {
@@ -1556,7 +1564,7 @@
      "value": -0.0318
     },
     "explosive_rate": {
-     "rank": 24,
+     "rank": 23,
      "value": 0.06
     },
     "points_allowed_pg": {
@@ -1568,7 +1576,7 @@
      "value": -0.0567
     },
     "success_rate": {
-     "rank": 10,
+     "rank": 9,
      "value": 0.4287
     },
     "takeaways_pg": {
@@ -1628,78 +1636,78 @@
    "defense": {
     "dropback_epa": {
      "rank": 32,
-     "value": 0.3405
+     "value": 0.3281
     },
     "epa_play": {
      "rank": 32,
-     "value": 0.1764
+     "value": 0.1729
     },
     "explosive_rate": {
      "rank": 30,
-     "value": 0.0728
+     "value": 0.0708
     },
     "points_allowed_pg": {
-     "rank": 32,
-     "value": 29.0294
+     "rank": 30,
+     "value": 28.4706
     },
     "rush_epa": {
-     "rank": 26,
-     "value": -0.0282
+     "rank": 29,
+     "value": -0.02
     },
     "success_rate": {
      "rank": 32,
-     "value": 0.5009
+     "value": 0.499
     },
     "takeaways_pg": {
      "rank": 32,
-     "value": 0.5735
+     "value": 0.5098
     }
    },
-   "games_current": 4,
+   "games_current": 5,
    "offense": {
     "dropback_epa": {
-     "rank": 3,
-     "value": 0.207
+     "rank": 6,
+     "value": 0.1777
     },
     "epa_play": {
      "rank": 3,
-     "value": 0.1524
+     "value": 0.136
     },
     "explosive_rate": {
-     "rank": 21,
-     "value": 0.0486
+     "rank": 17,
+     "value": 0.0539
     },
     "giveaways_pg": {
-     "rank": 6,
-     "value": 0.8971
+     "rank": 15,
+     "value": 1.1307
     },
     "pace_sec": {
      "rank": 2,
-     "value": 28.7139
+     "value": 28.3291
     },
     "points_pg": {
-     "rank": 2,
-     "value": 29.1029
+     "rank": 4,
+     "value": 27.6471
     },
     "proe": {
-     "rank": 9,
-     "value": 1.7693
+     "rank": 7,
+     "value": 2.1442
     },
     "red_zone_td_rate": {
-     "rank": 5,
-     "value": 0.6909
+     "rank": 3,
+     "value": 0.716
     },
     "rush_epa": {
-     "rank": 10,
-     "value": -0.033
+     "rank": 9,
+     "value": -0.0231
     },
     "success_rate": {
      "rank": 4,
-     "value": 0.4801
+     "value": 0.4831
     },
     "third_down_rate": {
      "rank": 3,
-     "value": 0.4608
+     "value": 0.456
     }
    }
   },
@@ -1722,7 +1730,7 @@
      "value": 20.8971
     },
     "rush_epa": {
-     "rank": 29,
+     "rank": 28,
      "value": -0.0239
     },
     "success_rate": {
@@ -1749,15 +1757,15 @@
      "value": 0.0468
     },
     "giveaways_pg": {
-     "rank": 10,
+     "rank": 9,
      "value": 0.9412
     },
     "pace_sec": {
-     "rank": 22,
+     "rank": 21,
      "value": 31.1978
     },
     "points_pg": {
-     "rank": 23,
+     "rank": 24,
      "value": 21.0441
     },
     "proe": {
@@ -1816,7 +1824,7 @@
    "games_current": 4,
    "offense": {
     "dropback_epa": {
-     "rank": 4,
+     "rank": 3,
      "value": 0.2064
     },
     "epa_play": {
@@ -1832,11 +1840,11 @@
      "value": 0.5662
     },
     "pace_sec": {
-     "rank": 23,
+     "rank": 22,
      "value": 31.2076
     },
     "points_pg": {
-     "rank": 3,
+     "rank": 2,
      "value": 29.0221
     },
     "proe": {
@@ -1856,7 +1864,7 @@
      "value": 0.4731
     },
     "third_down_rate": {
-     "rank": 15,
+     "rank": 16,
      "value": 0.3896
     }
    }
@@ -1876,7 +1884,7 @@
      "value": 0.0411
     },
     "points_allowed_pg": {
-     "rank": 19,
+     "rank": 20,
      "value": 23.7132
     },
     "rush_epa": {
@@ -1911,7 +1919,7 @@
      "value": 1.1618
     },
     "pace_sec": {
-     "rank": 25,
+     "rank": 24,
      "value": 31.3964
     },
     "points_pg": {
@@ -1967,7 +1975,7 @@
      "value": 0.3992
     },
     "takeaways_pg": {
-     "rank": 15,
+     "rank": 16,
      "value": 1.1985
     }
    },
@@ -2030,7 +2038,7 @@
      "value": 0.026
     },
     "explosive_rate": {
-     "rank": 23,
+     "rank": 22,
      "value": 0.0585
     },
     "points_allowed_pg": {
@@ -2053,7 +2061,7 @@
    "games_current": 4,
    "offense": {
     "dropback_epa": {
-     "rank": 27,
+     "rank": 28,
      "value": -0.0612
     },
     "epa_play": {
@@ -2077,11 +2085,11 @@
      "value": 26.4559
     },
     "proe": {
-     "rank": 7,
+     "rank": 8,
      "value": 1.9517
     },
     "red_zone_td_rate": {
-     "rank": 4,
+     "rank": 5,
      "value": 0.7008
     },
     "rush_epa": {
@@ -2109,7 +2117,7 @@
      "value": -0.0711
     },
     "explosive_rate": {
-     "rank": 17,
+     "rank": 16,
      "value": 0.0558
     },
     "points_allowed_pg": {
@@ -2121,7 +2129,7 @@
      "value": -0.1266
     },
     "success_rate": {
-     "rank": 9,
+     "rank": 8,
      "value": 0.4286
     },
     "takeaways_pg": {
@@ -2132,7 +2140,7 @@
    "games_current": 4,
    "offense": {
     "dropback_epa": {
-     "rank": 5,
+     "rank": 4,
      "value": 0.186
     },
     "epa_play": {
@@ -2148,7 +2156,7 @@
      "value": 0.7794
     },
     "pace_sec": {
-     "rank": 26,
+     "rank": 25,
      "value": 31.4231
     },
     "points_pg": {
@@ -2156,7 +2164,7 @@
      "value": 26.9412
     },
     "proe": {
-     "rank": 8,
+     "rank": 9,
      "value": 1.7848
     },
     "red_zone_td_rate": {
@@ -2200,11 +2208,11 @@
      "value": -0.1225
     },
     "success_rate": {
-     "rank": 11,
+     "rank": 10,
      "value": 0.431
     },
     "takeaways_pg": {
-     "rank": 12,
+     "rank": 13,
      "value": 1.2868
     }
    },
@@ -2322,7 +2330,7 @@
      "value": 0.5825
     },
     "rush_epa": {
-     "rank": 9,
+     "rank": 10,
      "value": -0.0326
     },
     "success_rate": {
@@ -2350,7 +2358,7 @@
      "value": 0.0514
     },
     "points_allowed_pg": {
-     "rank": 16,
+     "rank": 17,
      "value": 23.25
     },
     "rush_epa": {
@@ -2369,7 +2377,7 @@
    "games_current": 4,
    "offense": {
     "dropback_epa": {
-     "rank": 28,
+     "rank": 29,
      "value": -0.0752
     },
     "epa_play": {
@@ -2377,7 +2385,7 @@
      "value": -0.0811
     },
     "explosive_rate": {
-     "rank": 18,
+     "rank": 20,
      "value": 0.051
     },
     "giveaways_pg": {
@@ -2385,7 +2393,7 @@
      "value": 1.7426
     },
     "pace_sec": {
-     "rank": 28,
+     "rank": 27,
      "value": 31.5603
     },
     "points_pg": {
@@ -2429,7 +2437,7 @@
      "value": 0.0484
     },
     "points_allowed_pg": {
-     "rank": 15,
+     "rank": 16,
      "value": 23.2059
     },
     "rush_epa": {
@@ -2437,7 +2445,7 @@
      "value": -0.1366
     },
     "success_rate": {
-     "rank": 14,
+     "rank": 13,
      "value": 0.4362
     },
     "takeaways_pg": {
@@ -2484,7 +2492,7 @@
      "value": -0.2711
     },
     "success_rate": {
-     "rank": 26,
+     "rank": 27,
      "value": 0.4144
     },
     "third_down_rate": {
@@ -2504,7 +2512,7 @@
      "value": 0.0892
     },
     "explosive_rate": {
-     "rank": 22,
+     "rank": 21,
      "value": 0.0581
     },
     "points_allowed_pg": {
@@ -2527,7 +2535,7 @@
    "games_current": 4,
    "offense": {
     "dropback_epa": {
-     "rank": 26,
+     "rank": 27,
      "value": -0.0601
     },
     "epa_play": {
@@ -2591,7 +2599,7 @@
      "value": 16.1691
     },
     "rush_epa": {
-     "rank": 3,
+     "rank": 2,
      "value": -0.1765
     },
     "success_rate": {
@@ -2618,7 +2626,7 @@
      "value": 0.0457
     },
     "giveaways_pg": {
-     "rank": 14,
+     "rank": 13,
      "value": 1.1029
     },
     "pace_sec": {
@@ -2626,7 +2634,7 @@
      "value": 30.6468
     },
     "points_pg": {
-     "rank": 24,
+     "rank": 25,
      "value": 20.8676
     },
     "proe": {
@@ -2670,15 +2678,15 @@
      "value": 19.0368
     },
     "rush_epa": {
-     "rank": 28,
+     "rank": 27,
      "value": -0.0245
     },
     "success_rate": {
-     "rank": 12,
+     "rank": 11,
      "value": 0.4348
     },
     "takeaways_pg": {
-     "rank": 16,
+     "rank": 17,
      "value": 1.1838
     }
    },
@@ -2725,7 +2733,7 @@
      "value": 0.4564
     },
     "third_down_rate": {
-     "rank": 16,
+     "rank": 17,
      "value": 0.3877
     }
    }
@@ -2749,7 +2757,7 @@
      "value": 27.2647
     },
     "rush_epa": {
-     "rank": 27,
+     "rank": 26,
      "value": -0.0274
     },
     "success_rate": {
@@ -2855,7 +2863,7 @@
      "value": 0.0431
     },
     "giveaways_pg": {
-     "rank": 15,
+     "rank": 14,
      "value": 1.125
     },
     "pace_sec": {
@@ -2879,7 +2887,7 @@
      "value": -0.1066
     },
     "success_rate": {
-     "rank": 25,
+     "rank": 26,
      "value": 0.417
     },
     "third_down_rate": {
@@ -2926,7 +2934,7 @@
      "value": -0.0042
     },
     "epa_play": {
-     "rank": 25,
+     "rank": 26,
      "value": -0.0557
     },
     "explosive_rate": {
@@ -2950,7 +2958,7 @@
      "value": -4.9859
     },
     "red_zone_td_rate": {
-     "rank": 30,
+     "rank": 31,
      "value": 0.4964
     },
     "rush_epa": {
@@ -2958,7 +2966,7 @@
      "value": -0.1603
     },
     "success_rate": {
-     "rank": 24,
+     "rank": 25,
      "value": 0.4193
     },
     "third_down_rate": {
@@ -3013,7 +3021,7 @@
      "value": 0.0476
     },
     "giveaways_pg": {
-     "rank": 11,
+     "rank": 10,
      "value": 1.0368
     },
     "pace_sec": {
@@ -3049,7 +3057,7 @@
   "PIT": {
    "defense": {
     "dropback_epa": {
-     "rank": 17,
+     "rank": 18,
      "value": 0.0503
     },
     "epa_play": {
@@ -3171,11 +3179,11 @@
      "value": 0.0668
     },
     "giveaways_pg": {
-     "rank": 26,
+     "rank": 27,
      "value": 1.5147
     },
     "pace_sec": {
-     "rank": 27,
+     "rank": 26,
      "value": 31.4639
     },
     "points_pg": {
@@ -3250,7 +3258,7 @@
      "value": 0.0597
     },
     "giveaways_pg": {
-     "rank": 9,
+     "rank": 8,
      "value": 0.9265
     },
     "pace_sec": {
@@ -3258,7 +3266,7 @@
      "value": 31.005
     },
     "points_pg": {
-     "rank": 4,
+     "rank": 3,
      "value": 28.1029
     },
     "proe": {
@@ -3286,79 +3294,79 @@
   "TB": {
    "defense": {
     "dropback_epa": {
-     "rank": 19,
-     "value": 0.0651
+     "rank": 17,
+     "value": 0.0497
     },
     "epa_play": {
      "rank": 8,
-     "value": -0.0249
+     "value": -0.0236
     },
     "explosive_rate": {
-     "rank": 16,
-     "value": 0.0556
+     "rank": 24,
+     "value": 0.0607
     },
     "points_allowed_pg": {
-     "rank": 20,
-     "value": 24.0882
+     "rank": 15,
+     "value": 23.1895
     },
     "rush_epa": {
-     "rank": 2,
-     "value": -0.1849
+     "rank": 4,
+     "value": -0.1648
     },
     "success_rate": {
-     "rank": 8,
-     "value": 0.428
+     "rank": 15,
+     "value": 0.437
     },
     "takeaways_pg": {
-     "rank": 17,
-     "value": 1.1471
+     "rank": 11,
+     "value": 1.3529
     }
    },
-   "games_current": 4,
+   "games_current": 5,
    "offense": {
     "dropback_epa": {
-     "rank": 29,
-     "value": -0.0849
+     "rank": 26,
+     "value": -0.0595
     },
     "epa_play": {
-     "rank": 26,
-     "value": -0.0766
+     "rank": 25,
+     "value": -0.0487
     },
     "explosive_rate": {
      "rank": 19,
-     "value": 0.0505
+     "value": 0.0514
     },
     "giveaways_pg": {
-     "rank": 28,
-     "value": 1.625
+     "rank": 26,
+     "value": 1.4444
     },
     "pace_sec": {
-     "rank": 21,
-     "value": 31.1883
+     "rank": 28,
+     "value": 31.6424
     },
     "points_pg": {
-     "rank": 25,
-     "value": 20.6765
+     "rank": 23,
+     "value": 21.0458
     },
     "proe": {
      "rank": 19,
-     "value": -2.2651
+     "value": -2.3376
     },
     "red_zone_td_rate": {
-     "rank": 31,
-     "value": 0.4783
+     "rank": 30,
+     "value": 0.5014
     },
     "rush_epa": {
      "rank": 13,
-     "value": -0.0656
+     "value": -0.0518
     },
     "success_rate": {
-     "rank": 27,
-     "value": 0.4108
+     "rank": 24,
+     "value": 0.4201
     },
     "third_down_rate": {
-     "rank": 17,
-     "value": 0.3789
+     "rank": 15,
+     "value": 0.3957
     }
    }
   },
@@ -3373,7 +3381,7 @@
      "value": 0.072
     },
     "explosive_rate": {
-     "rank": 18,
+     "rank": 17,
      "value": 0.0564
     },
     "points_allowed_pg": {
@@ -3404,7 +3412,7 @@
      "value": -0.1139
     },
     "explosive_rate": {
-     "rank": 20,
+     "rank": 21,
      "value": 0.0488
     },
     "giveaways_pg": {
@@ -3452,11 +3460,11 @@
      "value": 0.0903
     },
     "explosive_rate": {
-     "rank": 20,
+     "rank": 19,
      "value": 0.0575
     },
     "points_allowed_pg": {
-     "rank": 30,
+     "rank": 31,
      "value": 28.5147
     },
     "rush_epa": {
