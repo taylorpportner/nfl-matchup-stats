@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T18:37:52+00:00",
+ "generated_at": "2026-10-11T17:53:06+00:00",
  "prior_season": 2025,
  "prior_weight_games": 4,
  "qbs": {
@@ -493,24 +493,6 @@
   }
  },
  "schedule": [
-  {
-   "away": "PHI",
-   "away_qb_id": "00-0036389",
-   "away_qb_name": "Jalen Hurts",
-   "away_rest": 7,
-   "div_game": false,
-   "game_id": "2026_05_PHI_JAX",
-   "gameday": "2026-10-11",
-   "gametime": "09:30",
-   "home": "JAX",
-   "home_qb_id": "00-0036971",
-   "home_qb_name": "Trevor Lawrence",
-   "home_rest": 7,
-   "roof": "outdoors",
-   "stadium": "Tottenham Hotspur Stadium",
-   "surface": "grass",
-   "week": 5
-  },
   {
    "away": "CHI",
    "away_qb_id": "00-0038416",
@@ -1726,7 +1708,7 @@
      "value": 0.0536
     },
     "points_allowed_pg": {
-     "rank": 9,
+     "rank": 10,
      "value": 20.8971
     },
     "rush_epa": {
@@ -2081,7 +2063,7 @@
      "value": 30.8441
     },
     "points_pg": {
-     "rank": 9,
+     "rank": 8,
      "value": 26.4559
     },
     "proe": {
@@ -2122,7 +2104,7 @@
     },
     "points_allowed_pg": {
      "rank": 2,
-     "value": 16.5074
+     "value": 16.8824
     },
     "rush_epa": {
      "rank": 8,
@@ -2160,8 +2142,8 @@
      "value": 31.4231
     },
     "points_pg": {
-     "rank": 8,
-     "value": 26.9412
+     "rank": 9,
+     "value": 26.2412
     },
     "proe": {
      "rank": 9,
@@ -2990,8 +2972,8 @@
      "value": 0.048
     },
     "points_allowed_pg": {
-     "rank": 10,
-     "value": 21.1838
+     "rank": 9,
+     "value": 20.7588
     },
     "rush_epa": {
      "rank": 21,
@@ -3030,7 +3012,7 @@
     },
     "points_pg": {
      "rank": 27,
-     "value": 20.5221
+     "value": 20.3471
     },
     "proe": {
      "rank": 23,
