@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T16:05:57+00:00",
+ "generated_at": "2026-10-18T16:19:34+00:00",
  "prior_season": 2025,
  "prior_weight_games": 4,
  "qbs": {
@@ -529,8 +529,8 @@
   },
   {
    "away": "CHI",
-   "away_qb_id": "00-0038416",
-   "away_qb_name": "Tyson Bagent",
+   "away_qb_id": "00-0039918",
+   "away_qb_name": "Caleb Williams",
    "away_rest": 7,
    "div_game": false,
    "game_id": "2026_06_CHI_ATL",
@@ -753,8 +753,8 @@
    "gameday": "2026-10-22",
    "gametime": "20:15",
    "home": "CHI",
-   "home_qb_id": "00-0038416",
-   "home_qb_name": "Tyson Bagent",
+   "home_qb_id": "00-0039918",
+   "home_qb_name": "Caleb Williams",
    "home_rest": 4,
    "roof": "outdoors",
    "stadium": "Soldier Field",
