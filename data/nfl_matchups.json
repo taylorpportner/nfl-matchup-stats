@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T17:44:18+00:00",
+ "generated_at": "2026-10-21T17:50:52+00:00",
  "prior_season": 2025,
  "prior_weight_games": 4,
  "qbs": {
@@ -609,8 +609,8 @@
   },
   {
    "away": "NYG",
-   "away_qb_id": "00-0031503",
-   "away_qb_name": "Jameis Winston",
+   "away_qb_id": "00-0039923",
+   "away_qb_name": "J.J. McCarthy",
    "away_rest": 7,
    "div_game": false,
    "game_id": "2026_07_NYG_HOU",
@@ -771,16 +771,16 @@
   },
   {
    "away": "CAR",
-   "away_qb_id": null,
-   "away_qb_name": null,
+   "away_qb_id": "00-0039150",
+   "away_qb_name": "Bryce Young",
    "away_rest": 4,
    "div_game": false,
    "game_id": "2026_08_CAR_GB",
    "gameday": "2026-10-29",
    "gametime": "20:15",
    "home": "GB",
-   "home_qb_id": null,
-   "home_qb_name": null,
+   "home_qb_id": "00-0036264",
+   "home_qb_name": "Jordan Love",
    "home_rest": 4,
    "roof": "outdoors",
    "stadium": "Lambeau Field",
