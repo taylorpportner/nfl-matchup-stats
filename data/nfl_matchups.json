@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T17:40:05+00:00",
+ "generated_at": "2026-10-25T16:56:31+00:00",
  "prior_season": 2025,
  "prior_weight_games": 4,
  "qbs": {
@@ -517,24 +517,6 @@
   }
  },
  "schedule": [
-  {
-   "away": "PIT",
-   "away_qb_id": "00-0023459",
-   "away_qb_name": "Aaron Rodgers",
-   "away_rest": 7,
-   "div_game": false,
-   "game_id": "2026_07_PIT_NO",
-   "gameday": "2026-10-25",
-   "gametime": "09:30",
-   "home": "NO",
-   "home_qb_id": "00-0040743",
-   "home_qb_name": "Tyler Shough",
-   "home_rest": 7,
-   "roof": "dome",
-   "stadium": "Stade de France",
-   "surface": "sportturf",
-   "week": 7
-  },
   {
    "away": "SF",
    "away_qb_id": "00-0037834",
@@ -1139,7 +1121,7 @@
      "value": 32.1349
     },
     "points_pg": {
-     "rank": 18,
+     "rank": 17,
      "value": 22.5059
     },
     "proe": {
@@ -1258,7 +1240,7 @@
      "value": 0.0584
     },
     "points_allowed_pg": {
-     "rank": 24,
+     "rank": 25,
      "value": 25.6882
     },
     "rush_epa": {
@@ -1416,7 +1398,7 @@
      "value": 0.0706
     },
     "points_allowed_pg": {
-     "rank": 12,
+     "rank": 13,
      "value": 21.877
     },
     "rush_epa": {
@@ -1574,7 +1556,7 @@
      "value": 0.0562
     },
     "points_allowed_pg": {
-     "rank": 9,
+     "rank": 10,
      "value": 21.1176
     },
     "rush_epa": {
@@ -1890,7 +1872,7 @@
      "value": 0.0367
     },
     "points_allowed_pg": {
-     "rank": 8,
+     "rank": 9,
      "value": 20.9706
     },
     "rush_epa": {
@@ -1929,7 +1911,7 @@
      "value": 31.3427
     },
     "points_pg": {
-     "rank": 20,
+     "rank": 19,
      "value": 21.9
     },
     "proe": {
@@ -1969,7 +1951,7 @@
      "value": 0.0594
     },
     "points_allowed_pg": {
-     "rank": 10,
+     "rank": 11,
      "value": 21.2412
     },
     "rush_epa": {
@@ -2048,7 +2030,7 @@
      "value": 0.0553
     },
     "points_allowed_pg": {
-     "rank": 26,
+     "rank": 27,
      "value": 26.0941
     },
     "rush_epa": {
@@ -2443,7 +2425,7 @@
      "value": 0.0551
     },
     "points_allowed_pg": {
-     "rank": 27,
+     "rank": 28,
      "value": 26.3647
     },
     "rush_epa": {
@@ -2482,7 +2464,7 @@
      "value": 29.7828
     },
     "points_pg": {
-     "rank": 21,
+     "rank": 20,
      "value": 21.8706
     },
     "proe": {
@@ -2522,7 +2504,7 @@
      "value": 0.0534
     },
     "points_allowed_pg": {
-     "rank": 25,
+     "rank": 26,
      "value": 25.7516
     },
     "rush_epa": {
@@ -2640,7 +2622,7 @@
      "value": 31.2538
     },
     "points_pg": {
-     "rank": 23,
+     "rank": 22,
      "value": 21.1046
     },
     "proe": {
@@ -2759,8 +2741,8 @@
      "value": 0.0588
     },
     "points_allowed_pg": {
-     "rank": 28,
-     "value": 26.8118
+     "rank": 24,
+     "value": 25.6403
     },
     "rush_epa": {
      "rank": 24,
@@ -2798,8 +2780,8 @@
      "value": 28.7067
     },
     "points_pg": {
-     "rank": 19,
-     "value": 22.4
+     "rank": 23,
+     "value": 21.0857
     },
     "proe": {
      "rank": 18,
@@ -2877,7 +2859,7 @@
      "value": 30.2247
     },
     "points_pg": {
-     "rank": 17,
+     "rank": 16,
      "value": 22.5647
     },
     "proe": {
@@ -2996,7 +2978,7 @@
      "value": 0.0493
     },
     "points_allowed_pg": {
-     "rank": 11,
+     "rank": 12,
      "value": 21.3471
     },
     "rush_epa": {
@@ -3075,8 +3057,8 @@
      "value": 0.0643
     },
     "points_allowed_pg": {
-     "rank": 13,
-     "value": 21.9059
+     "rank": 8,
+     "value": 20.9345
     },
     "rush_epa": {
      "rank": 21,
@@ -3114,8 +3096,8 @@
      "value": 30.4116
     },
     "points_pg": {
-     "rank": 16,
-     "value": 23.0412
+     "rank": 18,
+     "value": 22.4555
     },
     "proe": {
      "rank": 3,
@@ -3509,7 +3491,7 @@
      "value": 29.4015
     },
     "points_pg": {
-     "rank": 22,
+     "rank": 21,
      "value": 21.5765
     },
     "proe": {
