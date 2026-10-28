@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T18:31:50+00:00",
+ "generated_at": "2026-10-28T18:37:41+00:00",
  "prior_season": 2025,
  "prior_weight_games": 4,
  "qbs": {
@@ -244,7 +244,7 @@
    "team": "ATL"
   },
   "00-0036264": {
-   "cpoe": -0.11,
+   "cpoe": -0.05,
    "dropbacks_current": 286,
    "dropbacks_prior": 461,
    "epa_dropback": 0.1617,
@@ -3243,7 +3243,7 @@
    "defense": {
     "dropback_epa": {
      "rank": 28,
-     "value": 0.172
+     "value": 0.1721
     },
     "epa_play": {
      "rank": 30,
