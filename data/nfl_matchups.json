@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T19:49:03+00:00",
+ "generated_at": "2026-11-08T18:11:50+00:00",
  "prior_season": 2025,
  "prior_weight_games": 4,
  "qbs": {
@@ -517,24 +517,6 @@
   }
  },
  "schedule": [
-  {
-   "away": "CIN",
-   "away_qb_id": "00-0036442",
-   "away_qb_name": "Joe Burrow",
-   "away_rest": 7,
-   "div_game": false,
-   "game_id": "2026_09_CIN_ATL",
-   "gameday": "2026-11-08",
-   "gametime": "09:30",
-   "home": "ATL",
-   "home_qb_id": "00-0039917",
-   "home_qb_name": "Michael Penix Jr.",
-   "home_rest": 7,
-   "roof": null,
-   "stadium": "Bernabeu",
-   "surface": "fieldturf",
-   "week": 9
-  },
   {
    "away": "DEN",
    "away_qb_id": "00-0039732",
@@ -1118,8 +1100,8 @@
      "value": 0.0564
     },
     "points_allowed_pg": {
-     "rank": 17,
-     "value": 23.6127
+     "rank": 19,
+     "value": 24.3813
     },
     "rush_epa": {
      "rank": 17,
@@ -1158,7 +1140,7 @@
     },
     "points_pg": {
      "rank": 25,
-     "value": 21.1716
+     "value": 20.8475
     },
     "proe": {
      "rank": 32,
@@ -1276,7 +1258,7 @@
      "value": 0.056
     },
     "points_allowed_pg": {
-     "rank": 19,
+     "rank": 18,
      "value": 24.262
     },
     "rush_epa": {
@@ -1514,7 +1496,7 @@
     },
     "points_allowed_pg": {
      "rank": 20,
-     "value": 24.8877
+     "value": 24.4445
     },
     "rush_epa": {
      "rank": 27,
@@ -1553,7 +1535,7 @@
     },
     "points_pg": {
      "rank": 4,
-     "value": 27.5829
+     "value": 27.9465
     },
     "proe": {
      "rank": 2,
@@ -2856,7 +2838,7 @@
      "value": 0.0537
     },
     "points_allowed_pg": {
-     "rank": 18,
+     "rank": 17,
      "value": 24.0267
     },
     "rush_epa": {
