@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T22:50:29+00:00",
+ "generated_at": "2026-11-10T20:10:24+00:00",
  "prior_season": 2025,
  "prior_weight_games": 4,
  "qbs": {
@@ -100,10 +100,10 @@
    "team": "WAS"
   },
   "00-0032950": {
-   "cpoe": -0.98,
-   "dropbacks_current": 46,
+   "cpoe": -4.59,
+   "dropbacks_current": 71,
    "dropbacks_prior": 188,
-   "epa_dropback": 0.054,
+   "epa_dropback": -0.0631,
    "name": "C.Wentz",
    "team": "MIN"
   },
@@ -180,10 +180,10 @@
    "team": "TB"
   },
   "00-0034857": {
-   "cpoe": 3.81,
-   "dropbacks_current": 222,
+   "cpoe": 3.82,
+   "dropbacks_current": 257,
    "dropbacks_prior": 506,
-   "epa_dropback": 0.1774,
+   "epa_dropback": 0.1618,
    "name": "J.Allen",
    "team": "BUF"
   },
@@ -476,10 +476,10 @@
    "team": "NYJ"
   },
   "00-0040494": {
-   "cpoe": -3.53,
-   "dropbacks_current": 0,
+   "cpoe": -1.29,
+   "dropbacks_current": 8,
    "dropbacks_prior": 85,
-   "epa_dropback": -0.6887,
+   "epa_dropback": -0.6476,
    "name": "M.Brosmer",
    "team": "MIN"
   },
@@ -533,24 +533,6 @@
   }
  },
  "schedule": [
-  {
-   "away": "BUF",
-   "away_qb_id": "00-0034857",
-   "away_qb_name": "Josh Allen",
-   "away_rest": 8,
-   "div_game": false,
-   "game_id": "2026_09_BUF_MIN",
-   "gameday": "2026-11-09",
-   "gametime": "20:15",
-   "home": "MIN",
-   "home_qb_id": "00-0035228",
-   "home_qb_name": "Kyler Murray",
-   "home_rest": 8,
-   "roof": "dome",
-   "stadium": "U.S. Bank Stadium",
-   "surface": "sportturf",
-   "week": 9
-  },
   {
    "away": "WAS",
    "away_qb_id": "00-0039910",
@@ -625,8 +607,8 @@
   },
   {
    "away": "MIN",
-   "away_qb_id": "00-0035228",
-   "away_qb_name": "Kyler Murray",
+   "away_qb_id": "00-0029604",
+   "away_qb_name": "Kirk Cousins",
    "away_rest": 6,
    "div_game": true,
    "game_id": "2026_10_MIN_GB",
@@ -741,8 +723,8 @@
    "gameday": "2026-11-15",
    "gametime": "16:05",
    "home": "LV",
-   "home_qb_id": "00-0029604",
-   "home_qb_name": "Kirk Cousins",
+   "home_qb_id": "00-0041562",
+   "home_qb_name": "Fernando Mendoza",
    "home_rest": 7,
    "roof": "dome",
    "stadium": "Allegiant Stadium",
@@ -805,16 +787,16 @@
   },
   {
    "away": "IND",
-   "away_qb_id": null,
-   "away_qb_name": null,
+   "away_qb_id": "00-0035710",
+   "away_qb_name": "Daniel Jones",
    "away_rest": 4,
    "div_game": true,
    "game_id": "2026_11_IND_HOU",
    "gameday": "2026-11-19",
    "gametime": "20:15",
    "home": "HOU",
-   "home_qb_id": null,
-   "home_qb_name": null,
+   "home_qb_id": "00-0039163",
+   "home_qb_name": "C.J. Stroud",
    "home_rest": 4,
    "roof": "closed",
    "stadium": "Reliant Stadium",
@@ -835,7 +817,7 @@
      "value": 0.0874
     },
     "explosive_rate": {
-     "rank": 17,
+     "rank": 18,
      "value": 0.0545
     },
     "points_allowed_pg": {
@@ -847,7 +829,7 @@
      "value": -0.1232
     },
     "success_rate": {
-     "rank": 23,
+     "rank": 24,
      "value": 0.4526
     },
     "takeaways_pg": {
@@ -874,7 +856,7 @@
      "value": 1.0724
     },
     "pace_sec": {
-     "rank": 22,
+     "rank": 23,
      "value": 31.1619
     },
     "points_pg": {
@@ -906,7 +888,7 @@
   "ATL": {
    "defense": {
     "dropback_epa": {
-     "rank": 15,
+     "rank": 16,
      "value": 0.0321
     },
     "epa_play": {
@@ -937,7 +919,7 @@
    "games_current": 9,
    "offense": {
     "dropback_epa": {
-     "rank": 28,
+     "rank": 27,
      "value": -0.0989
     },
     "epa_play": {
@@ -977,7 +959,7 @@
      "value": 0.4368
     },
     "third_down_rate": {
-     "rank": 30,
+     "rank": 29,
      "value": 0.3442
     }
    }
@@ -989,7 +971,7 @@
      "value": 0.079
     },
     "epa_play": {
-     "rank": 18,
+     "rank": 19,
      "value": 0.0216
     },
     "explosive_rate": {
@@ -1044,7 +1026,7 @@
      "value": -3.997
     },
     "red_zone_td_rate": {
-     "rank": 22,
+     "rank": 21,
      "value": 0.5563
     },
     "rush_epa": {
@@ -1064,79 +1046,79 @@
   "BUF": {
    "defense": {
     "dropback_epa": {
-     "rank": 17,
-     "value": 0.0653
+     "rank": 13,
+     "value": 0.0084
     },
     "epa_play": {
-     "rank": 23,
-     "value": 0.0517
+     "rank": 16,
+     "value": 0.01
     },
     "explosive_rate": {
-     "rank": 20,
-     "value": 0.056
+     "rank": 16,
+     "value": 0.054
     },
     "points_allowed_pg": {
-     "rank": 19,
-     "value": 24.262
+     "rank": 15,
+     "value": 22.7402
     },
     "rush_epa": {
-     "rank": 30,
-     "value": -0.0348
+     "rank": 29,
+     "value": -0.0413
     },
     "success_rate": {
-     "rank": 25,
-     "value": 0.4569
+     "rank": 22,
+     "value": 0.4479
     },
     "takeaways_pg": {
-     "rank": 15,
-     "value": 1.2674
+     "rank": 10,
+     "value": 1.4118
     }
    },
-   "games_current": 7,
+   "games_current": 8,
    "offense": {
     "dropback_epa": {
-     "rank": 1,
-     "value": 0.2674
+     "rank": 2,
+     "value": 0.2437
     },
     "epa_play": {
      "rank": 1,
-     "value": 0.1639
+     "value": 0.1445
     },
     "explosive_rate": {
-     "rank": 1,
-     "value": 0.0759
+     "rank": 2,
+     "value": 0.0724
     },
     "giveaways_pg": {
-     "rank": 22,
-     "value": 1.385
+     "rank": 21,
+     "value": 1.3529
     },
     "pace_sec": {
-     "rank": 17,
-     "value": 30.9525
+     "rank": 22,
+     "value": 31.1255
     },
     "points_pg": {
      "rank": 1,
-     "value": 31.4706
+     "value": 30.7647
     },
     "proe": {
-     "rank": 20,
-     "value": -2.2575
+     "rank": 22,
+     "value": -3.0678
     },
     "red_zone_td_rate": {
-     "rank": 3,
-     "value": 0.686
+     "rank": 5,
+     "value": 0.665
     },
     "rush_epa": {
      "rank": 3,
-     "value": 0.0225
+     "value": 0.012
     },
     "success_rate": {
      "rank": 4,
-     "value": 0.4892
+     "value": 0.4815
     },
     "third_down_rate": {
-     "rank": 4,
-     "value": 0.4438
+     "rank": 6,
+     "value": 0.4369
     }
    }
   },
@@ -1281,7 +1263,7 @@
      "value": -0.7028
     },
     "red_zone_td_rate": {
-     "rank": 21,
+     "rank": 20,
      "value": 0.5639
     },
     "rush_epa": {
@@ -1305,7 +1287,7 @@
      "value": 0.0768
     },
     "epa_play": {
-     "rank": 22,
+     "rank": 23,
      "value": 0.0443
     },
     "explosive_rate": {
@@ -1313,7 +1295,7 @@
      "value": 0.0721
     },
     "points_allowed_pg": {
-     "rank": 18,
+     "rank": 19,
      "value": 24.2304
     },
     "rush_epa": {
@@ -1344,7 +1326,7 @@
      "value": 0.0529
     },
     "giveaways_pg": {
-     "rank": 14,
+     "rank": 13,
      "value": 1.2206
     },
     "pace_sec": {
@@ -1360,7 +1342,7 @@
      "value": 5.8744
     },
     "red_zone_td_rate": {
-     "rank": 4,
+     "rank": 3,
      "value": 0.6806
     },
     "rush_epa": {
@@ -1388,7 +1370,7 @@
      "value": -0.0376
     },
     "explosive_rate": {
-     "rank": 18,
+     "rank": 19,
      "value": 0.055
     },
     "points_allowed_pg": {
@@ -1411,11 +1393,11 @@
    "games_current": 9,
    "offense": {
     "dropback_epa": {
-     "rank": 27,
+     "rank": 26,
      "value": -0.0822
     },
     "epa_play": {
-     "rank": 30,
+     "rank": 29,
      "value": -0.1002
     },
     "explosive_rate": {
@@ -1423,7 +1405,7 @@
      "value": 0.0513
     },
     "giveaways_pg": {
-     "rank": 21,
+     "rank": 22,
      "value": 1.3756
     },
     "pace_sec": {
@@ -1435,7 +1417,7 @@
      "value": 17.4344
     },
     "proe": {
-     "rank": 21,
+     "rank": 20,
      "value": -2.4824
     },
     "red_zone_td_rate": {
@@ -1451,7 +1433,7 @@
      "value": 0.3987
     },
     "third_down_rate": {
-     "rank": 31,
+     "rank": 30,
      "value": 0.34
     }
    }
@@ -1502,7 +1484,7 @@
      "value": 0.053
     },
     "giveaways_pg": {
-     "rank": 12,
+     "rank": 11,
      "value": 1.0905
     },
     "pace_sec": {
@@ -1518,7 +1500,7 @@
      "value": 0.3971
     },
     "red_zone_td_rate": {
-     "rank": 5,
+     "rank": 4,
      "value": 0.6697
     },
     "rush_epa": {
@@ -1530,7 +1512,7 @@
      "value": 0.4711
     },
     "third_down_rate": {
-     "rank": 5,
+     "rank": 4,
      "value": 0.4402
     }
    }
@@ -1562,7 +1544,7 @@
      "value": 0.4046
     },
     "takeaways_pg": {
-     "rank": 13,
+     "rank": 14,
      "value": 1.2896
     }
    },
@@ -1629,7 +1611,7 @@
      "value": 0.0701
     },
     "points_allowed_pg": {
-     "rank": 17,
+     "rank": 18,
      "value": 23.848
     },
     "rush_epa": {
@@ -1664,7 +1646,7 @@
      "value": 0.7108
     },
     "pace_sec": {
-     "rank": 15,
+     "rank": 16,
      "value": 30.7439
     },
     "points_pg": {
@@ -1739,7 +1721,7 @@
      "value": 0.0714
     },
     "giveaways_pg": {
-     "rank": 13,
+     "rank": 12,
      "value": 1.0995
     },
     "pace_sec": {
@@ -1858,7 +1840,7 @@
      "value": 0.0945
     },
     "epa_play": {
-     "rank": 21,
+     "rank": 22,
      "value": 0.0385
     },
     "explosive_rate": {
@@ -1885,7 +1867,7 @@
    "games_current": 9,
    "offense": {
     "dropback_epa": {
-     "rank": 30,
+     "rank": 29,
      "value": -0.1239
     },
     "epa_play": {
@@ -1901,7 +1883,7 @@
      "value": 1.7059
     },
     "pace_sec": {
-     "rank": 16,
+     "rank": 17,
      "value": 30.7445
     },
     "points_pg": {
@@ -2004,7 +1986,7 @@
      "value": 0.4576
     },
     "third_down_rate": {
-     "rank": 6,
+     "rank": 5,
      "value": 0.4398
     }
    }
@@ -2036,7 +2018,7 @@
      "value": 0.4208
     },
     "takeaways_pg": {
-     "rank": 14,
+     "rank": 15,
      "value": 1.2745
     }
    },
@@ -2170,7 +2152,7 @@
   "LAC": {
    "defense": {
     "dropback_epa": {
-     "rank": 14,
+     "rank": 15,
      "value": 0.018
     },
     "epa_play": {
@@ -2273,7 +2255,7 @@
      "value": 0.4697
     },
     "takeaways_pg": {
-     "rank": 11,
+     "rank": 12,
      "value": 1.3665
     }
    },
@@ -2336,7 +2318,7 @@
      "value": 0.1012
     },
     "explosive_rate": {
-     "rank": 19,
+     "rank": 20,
      "value": 0.0559
     },
     "points_allowed_pg": {
@@ -2408,78 +2390,78 @@
    "defense": {
     "dropback_epa": {
      "rank": 1,
-     "value": -0.176
+     "value": -0.1603
     },
     "epa_play": {
      "rank": 1,
-     "value": -0.152
+     "value": -0.1398
     },
     "explosive_rate": {
      "rank": 2,
-     "value": 0.037
+     "value": 0.0373
     },
     "points_allowed_pg": {
      "rank": 1,
-     "value": 15.5775
+     "value": 16.1961
     },
     "rush_epa": {
      "rank": 7,
-     "value": -0.1336
+     "value": -0.1251
     },
     "success_rate": {
      "rank": 1,
-     "value": 0.3809
+     "value": 0.384
     },
     "takeaways_pg": {
-     "rank": 4,
-     "value": 1.5615
+     "rank": 5,
+     "value": 1.5147
     }
    },
-   "games_current": 7,
+   "games_current": 8,
    "offense": {
     "dropback_epa": {
-     "rank": 25,
-     "value": -0.0727
+     "rank": 30,
+     "value": -0.1329
     },
     "epa_play": {
-     "rank": 29,
-     "value": -0.0973
+     "rank": 31,
+     "value": -0.1353
     },
     "explosive_rate": {
-     "rank": 23,
-     "value": 0.0502
+     "rank": 24,
+     "value": 0.0483
     },
     "giveaways_pg": {
-     "rank": 11,
-     "value": 1.0749
+     "rank": 14,
+     "value": 1.2353
     },
     "pace_sec": {
-     "rank": 23,
-     "value": 31.2037
+     "rank": 15,
+     "value": 30.6475
     },
     "points_pg": {
-     "rank": 26,
-     "value": 20.0856
+     "rank": 27,
+     "value": 18.9118
     },
     "proe": {
-     "rank": 22,
-     "value": -2.9334
+     "rank": 21,
+     "value": -2.71
     },
     "red_zone_td_rate": {
-     "rank": 20,
-     "value": 0.5647
+     "rank": 22,
+     "value": 0.5425
     },
     "rush_epa": {
      "rank": 26,
-     "value": -0.1538
+     "value": -0.1557
     },
     "success_rate": {
      "rank": 30,
-     "value": 0.3971
+     "value": 0.3902
     },
     "third_down_rate": {
-     "rank": 29,
-     "value": 0.3447
+     "rank": 32,
+     "value": 0.3282
     }
    }
   },
@@ -2490,7 +2472,7 @@
      "value": 0.0896
     },
     "epa_play": {
-     "rank": 17,
+     "rank": 18,
      "value": 0.0181
     },
     "explosive_rate": {
@@ -2525,7 +2507,7 @@
      "value": 0.0754
     },
     "explosive_rate": {
-     "rank": 2,
+     "rank": 1,
      "value": 0.0745
     },
     "giveaways_pg": {
@@ -2569,7 +2551,7 @@
      "value": 0.066
     },
     "epa_play": {
-     "rank": 19,
+     "rank": 20,
      "value": 0.0243
     },
     "explosive_rate": {
@@ -2585,7 +2567,7 @@
      "value": -0.0676
     },
     "success_rate": {
-     "rank": 24,
+     "rank": 25,
      "value": 0.4551
     },
     "takeaways_pg": {
@@ -2644,11 +2626,11 @@
   "NYG": {
    "defense": {
     "dropback_epa": {
-     "rank": 13,
+     "rank": 14,
      "value": 0.0179
     },
     "epa_play": {
-     "rank": 16,
+     "rank": 17,
      "value": 0.0162
     },
     "explosive_rate": {
@@ -2656,7 +2638,7 @@
      "value": 0.0515
     },
     "points_allowed_pg": {
-     "rank": 16,
+     "rank": 17,
      "value": 22.9412
     },
     "rush_epa": {
@@ -2774,7 +2756,7 @@
      "value": 31.3738
     },
     "points_pg": {
-     "rank": 27,
+     "rank": 26,
      "value": 19.4299
     },
     "proe": {
@@ -2806,15 +2788,15 @@
      "value": 0.0806
     },
     "epa_play": {
-     "rank": 20,
+     "rank": 21,
      "value": 0.0377
     },
     "explosive_rate": {
-     "rank": 16,
+     "rank": 17,
      "value": 0.0544
     },
     "points_allowed_pg": {
-     "rank": 15,
+     "rank": 16,
      "value": 22.8824
     },
     "rush_epa": {
@@ -2833,7 +2815,7 @@
    "games_current": 9,
    "offense": {
     "dropback_epa": {
-     "rank": 26,
+     "rank": 25,
      "value": -0.0744
     },
     "epa_play": {
@@ -2905,7 +2887,7 @@
      "value": 0.4269
     },
     "takeaways_pg": {
-     "rank": 5,
+     "rank": 4,
      "value": 1.5294
     }
    },
@@ -2984,7 +2966,7 @@
      "value": 0.3939
     },
     "takeaways_pg": {
-     "rank": 12,
+     "rank": 13,
      "value": 1.3348
     }
    },
@@ -3039,7 +3021,7 @@
   "SF": {
    "defense": {
     "dropback_epa": {
-     "rank": 16,
+     "rank": 17,
      "value": 0.0422
     },
     "epa_play": {
@@ -3059,18 +3041,18 @@
      "value": -0.1665
     },
     "success_rate": {
-     "rank": 22,
+     "rank": 23,
      "value": 0.4501
     },
     "takeaways_pg": {
-     "rank": 10,
+     "rank": 11,
      "value": 1.3775
     }
    },
    "games_current": 8,
    "offense": {
     "dropback_epa": {
-     "rank": 2,
+     "rank": 1,
      "value": 0.2581
     },
     "epa_play": {
@@ -3149,7 +3131,7 @@
    "games_current": 9,
    "offense": {
     "dropback_epa": {
-     "rank": 29,
+     "rank": 28,
      "value": -0.1231
     },
     "epa_play": {
@@ -3157,7 +3139,7 @@
      "value": -0.0697
     },
     "explosive_rate": {
-     "rank": 24,
+     "rank": 23,
      "value": 0.0497
     },
     "giveaways_pg": {
@@ -3232,7 +3214,7 @@
      "value": -0.1347
     },
     "epa_play": {
-     "rank": 31,
+     "rank": 30,
      "value": -0.1048
     },
     "explosive_rate": {
@@ -3292,7 +3274,7 @@
      "value": 25.6765
     },
     "rush_epa": {
-     "rank": 29,
+     "rank": 30,
      "value": -0.0407
     },
     "success_rate": {
@@ -3347,7 +3329,7 @@
      "value": 0.4285
     },
     "third_down_rate": {
-     "rank": 32,
+     "rank": 31,
      "value": 0.3328
     }
    }
