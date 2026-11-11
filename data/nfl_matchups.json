@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T20:10:24+00:00",
+ "generated_at": "2026-11-11T19:58:13+00:00",
  "prior_season": 2025,
  "prior_weight_games": 4,
  "qbs": {
@@ -420,7 +420,7 @@
    "team": "NE"
   },
   "00-0039910": {
-   "cpoe": 1.61,
+   "cpoe": 1.6,
    "dropbacks_current": 195,
    "dropbacks_prior": 205,
    "epa_dropback": -0.0201,
