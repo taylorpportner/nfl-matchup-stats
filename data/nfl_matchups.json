@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T20:15:42+00:00",
+ "generated_at": "2026-11-15T19:13:21+00:00",
  "prior_season": 2025,
  "prior_weight_games": 4,
  "qbs": {
@@ -534,24 +534,6 @@
  },
  "schedule": [
   {
-   "away": "NE",
-   "away_qb_id": "00-0039851",
-   "away_qb_name": "Drake Maye",
-   "away_rest": 7,
-   "div_game": false,
-   "game_id": "2026_10_NE_DET",
-   "gameday": "2026-11-15",
-   "gametime": "09:30",
-   "home": "DET",
-   "home_qb_id": "00-0033106",
-   "home_qb_name": "Jared Goff",
-   "home_rest": 7,
-   "roof": "dome",
-   "stadium": "FC Bayern Munich Stadium",
-   "surface": "fieldturf",
-   "week": 10
-  },
-  {
    "away": "KC",
    "away_qb_id": "00-0033873",
    "away_qb_name": "Patrick Mahomes",
@@ -607,8 +589,8 @@
   },
   {
    "away": "MIA",
-   "away_qb_id": "00-0038128",
-   "away_qb_name": "Malik Willis",
+   "away_qb_id": "00-0040014",
+   "away_qb_name": "Kyle McCord",
    "away_rest": 7,
    "div_game": false,
    "game_id": "2026_10_MIA_IND",
@@ -1000,6 +982,24 @@
    "stadium": "Northwest Stadium",
    "surface": "grass",
    "week": 11
+  },
+  {
+   "away": "GB",
+   "away_qb_id": null,
+   "away_qb_name": null,
+   "away_rest": 10,
+   "div_game": false,
+   "game_id": "2026_12_GB_LA",
+   "gameday": "2026-11-25",
+   "gametime": "20:00",
+   "home": "LA",
+   "home_qb_id": null,
+   "home_qb_name": null,
+   "home_rest": 10,
+   "roof": "dome",
+   "stadium": "SoFi Stadium",
+   "surface": "matrixturf",
+   "week": 12
   }
  ],
  "season": 2026,
@@ -1532,7 +1532,7 @@
      "value": 31.1103
     },
     "points_pg": {
-     "rank": 4,
+     "rank": 5,
      "value": 28.1176
     },
     "proe": {
@@ -1572,7 +1572,7 @@
      "value": 0.055
     },
     "points_allowed_pg": {
-     "rank": 14,
+     "rank": 13,
      "value": 21.9367
     },
     "rush_epa": {
@@ -1809,8 +1809,8 @@
      "value": 0.0701
     },
     "points_allowed_pg": {
-     "rank": 18,
-     "value": 23.848
+     "rank": 16,
+     "value": 22.8388
     },
     "rush_epa": {
      "rank": 15,
@@ -1848,8 +1848,8 @@
      "value": 30.7439
     },
     "points_pg": {
-     "rank": 5,
-     "value": 27.9314
+     "rank": 2,
+     "value": 28.4684
     },
     "proe": {
      "rank": 23,
@@ -1967,7 +1967,7 @@
      "value": 0.0618
     },
     "points_allowed_pg": {
-     "rank": 13,
+     "rank": 12,
      "value": 21.7843
     },
     "rush_epa": {
@@ -2164,7 +2164,7 @@
      "value": 31.0624
     },
     "points_pg": {
-     "rank": 2,
+     "rank": 3,
      "value": 28.3775
     },
     "proe": {
@@ -2678,8 +2678,8 @@
      "value": 0.0567
     },
     "points_allowed_pg": {
-     "rank": 12,
-     "value": 21.7149
+     "rank": 14,
+     "value": 22.5457
     },
     "rush_epa": {
      "rank": 10,
@@ -2717,8 +2717,8 @@
      "value": 31.6251
     },
     "points_pg": {
-     "rank": 10,
-     "value": 25.0995
+     "rank": 11,
+     "value": 24.1688
     },
     "proe": {
      "rank": 10,
@@ -2836,7 +2836,7 @@
      "value": 0.0535
     },
     "points_allowed_pg": {
-     "rank": 17,
+     "rank": 18,
      "value": 23.0226
     },
     "rush_epa": {
@@ -2994,7 +2994,7 @@
      "value": 0.0544
     },
     "points_allowed_pg": {
-     "rank": 16,
+     "rank": 17,
      "value": 22.8824
     },
     "rush_epa": {
@@ -3191,7 +3191,7 @@
      "value": 31.5994
     },
     "points_pg": {
-     "rank": 11,
+     "rank": 10,
      "value": 24.2805
     },
     "proe": {
@@ -3270,7 +3270,7 @@
      "value": 31.4905
     },
     "points_pg": {
-     "rank": 3,
+     "rank": 4,
      "value": 28.152
     },
     "proe": {
