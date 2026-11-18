@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T21:28:56+00:00",
+ "generated_at": "2026-11-18T21:03:37+00:00",
  "prior_season": 2025,
  "prior_weight_games": 4,
  "qbs": {
@@ -436,7 +436,7 @@
    "team": "ATL"
   },
   "00-0039918": {
-   "cpoe": 2.24,
+   "cpoe": 2.04,
    "dropbacks_current": 209,
    "dropbacks_prior": 594,
    "epa_dropback": 0.1017,
@@ -2491,7 +2491,7 @@
     },
     "pace_sec": {
      "rank": 15,
-     "value": 30.6203
+     "value": 30.6122
     },
     "points_pg": {
      "rank": 25,
